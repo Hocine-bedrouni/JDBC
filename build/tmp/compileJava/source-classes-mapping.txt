@@ -1,6 +1,20 @@
-com/afpa/Main.java
- com.afpa.Main
+com/afpa/exo/Client.java
+ com.afpa.exo.Client
+com/afpa/exo/Exo1Controller.java
+ com.afpa.exo.Exo1Controller
 com/afpa/MenuController.java
  com.afpa.MenuController
-com/afpa/exo1/Exo1Controller.java
- com.afpa.exo1.Exo1Controller
+com/afpa/exo/BaseHotel.java
+ com.afpa.exo.BaseHotel
+com/afpa/exo/Exo3Controller.java
+ com.afpa.exo.Exo3Controller
+com/afpa/exo/Exo2Controller.java
+ com.afpa.exo.Exo2Controller
+com/afpa/Main.java
+ com.afpa.Main
+com/afpa/exo/Fournisseur.java
+ com.afpa.exo.Fournisseur
+com/afpa/exo/ClientDAO.java
+ com.afpa.exo.ClientDAO
+com/afpa/exo/crudController.java
+ com.afpa.exo.crudController

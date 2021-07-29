@@ -34,6 +34,15 @@ public class MenuController {
         stage1.show();
     }
 
+    public void crud(ActionEvent actionEvent) throws IOException {
+        Stage stage1 = new Stage();
+        Parent root = FXMLLoader.load(getClass().getResource("exo/crud.fxml"));
+        Scene scene = new Scene(root);
+        stage1.setScene(scene);
+        stage1.show();
+    }
+
+
 
 
 }
