@@ -7,7 +7,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.Pane?>
 
-<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.afpa.exo1.Exo1Controller">
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.afpa.exo.Exo1Controller">
    <children>
       <Label layoutX="45.0" layoutY="57.0" prefHeight="17.0" prefWidth="118.0" text="Code Fournisseur" />
       <Pane layoutX="26.0" layoutY="141.0" opacity="0.75" prefHeight="241.0" prefWidth="493.0" style="-fx-border-color: grey;">

@@ -1,6 +1,14 @@
-com/afpa/Main.java
- com.afpa.Main
+com/afpa/exo/Exo1Controller.java
+ com.afpa.exo.Exo1Controller
+com/afpa/exo/FourniDAO.java
+ com.afpa.exo.FourniDAO
 com/afpa/MenuController.java
  com.afpa.MenuController
-com/afpa/exo1/Exo1Controller.java
- com.afpa.exo1.Exo1Controller
+com/afpa/Main.java
+ com.afpa.Main
+com/afpa/exo/Fournisseur.java
+ com.afpa.exo.Fournisseur
+com/afpa/exo/Exo2Controller.java
+ com.afpa.exo.Exo2Controller
+com/afpa/exo/Exo3Controller.java
+ com.afpa.exo.Exo3Controller
