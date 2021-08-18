@@ -95,6 +95,7 @@ public class crudController {
 
     public void Annul() {
         addnom.clear();
+
         addprenom.setText("");
         addville.clear();
     }
